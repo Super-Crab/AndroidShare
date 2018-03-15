@@ -1,1 +1,3 @@
-include ':app'
+include ':app',
+        ':modules:module_customview',
+        ':library:lib_common'
